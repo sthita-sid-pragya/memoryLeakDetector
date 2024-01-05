@@ -8,8 +8,8 @@
  *    Description:  This file represents the functioning of the MemoryLeak Detector Library
  *
  *
- *         Author:  Sthita Pragya, Senior Student
- *        Company:  University of Western Ontario( Year 3)
+ *         Author:  Sthita Pragya
+ *        Company:  University of Western Ontario
  *        
  *      
  *

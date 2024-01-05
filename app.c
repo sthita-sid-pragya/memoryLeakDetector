@@ -6,8 +6,8 @@
  *    Description:  This file represents the application demonstrating the use of MLD library
  *
  *
- *         Author:  Sthita Pragya, Senior Student
- *        Company:  University of Western Ontario( Year 3)
+ *         Author:  Sthita Pragya
+ *        Company:  University of Western Ontario
  *        
  *      
  *

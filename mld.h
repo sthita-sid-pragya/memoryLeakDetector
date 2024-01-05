@@ -7,8 +7,8 @@
  *    Description:    This file defines the data structures used for MLD library.
  *
  *
- *         Author:  Sthita Pragya, Senior Student
- *        Company:  University of Western Ontario( Year 3)
+ *         Author:  Sthita Pragya
+ *        Company:  University of Western Ontario
  *        
  *      
  *
